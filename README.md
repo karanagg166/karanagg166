@@ -96,34 +96,90 @@ currently_building: AI-powered Semantic Search Engine for Presentations
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/karanagg166/Quick-Clinic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karanagg166&repo=Quick-Clinic&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/karanagg166/Wallet-Track">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karanagg166&repo=Wallet-Track&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/karanagg166/Book-Recommender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karanagg166&repo=Book-Recommender&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/karanagg166/i-luv-college">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karanagg166&repo=i-luv-college&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚕️ Quick-Clinic</h3>
+      <p align="center">
+        <a href="https://github.com/karanagg166/Quick-Clinic">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">A healthcare booking platform for quick doctor appointments & clinic management</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/⭐_1-yellow?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💰 Wallet-Track</h3>
+      <p align="center">
+        <a href="https://github.com/karanagg166/Wallet-Track">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Full-stack expense tracker with analytics, budgeting & financial insights</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/⭐_1-yellow?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📖 Book-Recommender</h3>
+      <p align="center">
+        <a href="https://github.com/karanagg166/Book-Recommender">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">ML-based book recommendation engine with collaborative filtering</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏫 i-luv-college</h3>
+      <p align="center">
+        <a href="https://github.com/karanagg166/i-luv-college">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Anonymous college review platform — upvote, comment & discover real experiences</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanagg166&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanagg166&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=karanagg166&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=karanagg166&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karanagg166&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karanagg166&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karanagg166&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karanagg166&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="180"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanagg166&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=karanagg166&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
