@@ -193,7 +193,12 @@ currently_building: AI-powered Semantic Search Engine for Presentations
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karanagg166&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=karanagg166&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+</div>
+
+<!-- Fallback if above doesn't load -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karanagg166&theme=tokyonight&no-frame=true&column=7&margin-w=10&no-bg=true" alt=""/>
 </div>
 
 ---
