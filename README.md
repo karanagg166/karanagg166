@@ -113,7 +113,22 @@ currently_building: AI-powered Semantic Search Engine for Presentations
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💰 Wallet-Track</h3>
+      <h3 align="center">�️ ShopSizzle</h3>
+      <p align="center">
+        <a href="https://github.com/karanagg166/ShopSizzle">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Full-featured e-commerce platform with modern UI & seamless shopping experience</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">� Wallet-Track</h3>
       <p align="center">
         <a href="https://github.com/karanagg166/Wallet-Track">
           <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -126,32 +141,17 @@ currently_building: AI-powered Semantic Search Engine for Presentations
         <img src="https://img.shields.io/badge/⭐_1-yellow?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <h3 align="center">📖 Book-Recommender</h3>
+      <h3 align="center">�️ TenkiSense</h3>
       <p align="center">
-        <a href="https://github.com/karanagg166/Book-Recommender">
+        <a href="https://github.com/karanagg166/tenkisense">
           <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">ML-based book recommendation engine with collaborative filtering</p>
+      <p align="center">Smart weather app with real-time forecasts, location tracking & beautiful UI</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏫 i-luv-college</h3>
-      <p align="center">
-        <a href="https://github.com/karanagg166/i-luv-college">
-          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Anonymous college review platform — upvote, comment & discover real experiences</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
     </td>
   </tr>
