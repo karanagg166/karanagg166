@@ -38,10 +38,10 @@ currently_building: AI-powered Semantic Search Engine for Presentations
   <a href="https://codeforces.com/profile/karancipherknight">
     <img src="https://img.shields.io/badge/Codeforces-karancipherknight-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/aggarwalkaran241/">
+  <a href="https://leetcode.com/u/aggarwalkaran241/">
     <img src="https://img.shields.io/badge/LeetCode-aggarwalkaran241-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/aggarwalklmvk/">
+  <a href="https://www.geeksforgeeks.org/user/aggarwalklmvk/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-aggarwalklmvk-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 
@@ -109,11 +109,11 @@ currently_building: AI-powered Semantic Search Engine for Presentations
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/⭐_1-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/%E2%AD%90_1-yellow?style=flat-square" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">�️ ShopSizzle</h3>
+      <h3 align="center">🛍️ ShopSizzle</h3>
       <p align="center">
         <a href="https://github.com/karanagg166/ShopSizzle">
           <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -128,7 +128,7 @@ currently_building: AI-powered Semantic Search Engine for Presentations
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">� Wallet-Track</h3>
+      <h3 align="center">💳 Wallet-Track</h3>
       <p align="center">
         <a href="https://github.com/karanagg166/Wallet-Track">
           <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -138,11 +138,11 @@ currently_building: AI-powered Semantic Search Engine for Presentations
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/⭐_1-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/%E2%AD%90_1-yellow?style=flat-square" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">�️ TenkiSense</h3>
+      <h3 align="center">🌤️ TenkiSense</h3>
       <p align="center">
         <a href="https://github.com/karanagg166/tenkisense">
           <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -163,14 +163,14 @@ currently_building: AI-powered Semantic Search Engine for Presentations
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=karanagg166&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=karanagg166&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karanagg166&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=karanagg166&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=karanagg166&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=karanagg166&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karanagg166&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karanagg166&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karanagg166&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="180"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karanagg166&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karanagg166&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karanagg166&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
   </picture>
 </div>
 
@@ -194,11 +194,6 @@ currently_building: AI-powered Semantic Search Engine for Presentations
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=karanagg166&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
-</div>
-
-<!-- Fallback if above doesn't load -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karanagg166&theme=tokyonight&no-frame=true&column=7&margin-w=10&no-bg=true" alt=""/>
 </div>
 
 ---
