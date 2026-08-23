@@ -113,16 +113,17 @@ currently_building: AI-powered Semantic Search Engine for Presentations
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛍️ ShopSizzle</h3>
+      <h3 align="center">🎓 ExamArena</h3>
       <p align="center">
-        <a href="https://github.com/karanagg166/ShopSizzle">
+        <a href="https://github.com/karanagg166/ExamArena">
           <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">Full-featured e-commerce platform with modern UI & seamless shopping experience</p>
+      <p align="center">Role-based examination & proctoring platform for students, teachers & principals</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
     </td>
   </tr>
